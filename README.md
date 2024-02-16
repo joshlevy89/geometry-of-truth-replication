@@ -1,4 +1,3 @@
-# got-replication
 This is a replication of geometry-of-truth by Samuel Marks and Max Tegmark. Here is the original <a target="_blank" href="https://github.com/saprmarks/geometry-of-truth">code</a> and <a target="_blank" href="https://arxiv.org/pdf/2310.06824.pdf">paper</a>.
 
 In addition to replicating the main results for llama-1/2, this code also works for mistral. 
